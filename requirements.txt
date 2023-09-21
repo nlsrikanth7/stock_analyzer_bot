@@ -6,13 +6,6 @@ yfinance
 pandas
 notebook
 numpy
-matplotlib
-seaborn
-python-box
-pyYAML
 ensure
 joblib
-types-pyYAML
-Flask
-Flask-Cors
 -e .
